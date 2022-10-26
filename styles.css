@@ -46,7 +46,7 @@ body{
     right: 0;
     bottom: 0;
     background-color: var(--soft-violet);
-    opacity: 0.5;
+    opacity: 0.6;
 }
 .container .content {
     padding: 3rem 5rem 3rem 3rem;
